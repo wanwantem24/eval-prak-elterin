@@ -193,7 +193,7 @@ const bankSoal = [
   },
   {
     pertanyaan: "17. Pada IC berikut, input inverting berada di pin kaki nomor berapa?",
-    gambar: "OPAMP.JPG",
+    gambar: "OPAMP.jpg",
     pilihan: [
       1,
       2,
